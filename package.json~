@@ -1,10 +1,11 @@
 {
   "name": "weather",
-  "homepage": "https://xPh03niX.github.io/weather",
+  "homepage": "https://xPh03nix.github.io/weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.4.0",
