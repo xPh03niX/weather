@@ -13,7 +13,7 @@ const Form = props => {
               className="form-control"
               placeholder="City"
               name="city"
-              autoComplete="off"
+              autoComplete="on"
             />
           </div>
           <div className="col-md-3">
