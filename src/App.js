@@ -94,7 +94,6 @@ class App extends React.Component {
 
       // setting icons
       this.get_WeatherIcon(this.weatherIcon, response.weather[0].id);
-
       console.log(response);
     } else {
       this.setState({
